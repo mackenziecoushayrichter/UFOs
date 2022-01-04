@@ -1,1 +1,9 @@
 # UFOs
+## Overview
+### Purpose of Project
+* The purpose of this project was to write HTML and bootstrap to create a webpage.
+* The purpose of this webpage is to use data about UFOs that is stored as a JavaScript array.  Then put that data into a table on the webpage that can be filted by multiple elements
+## Results
+* The complteted webpage is very user-friendly. 
+* Someone can find information about UFO sightings by filtering on the table created.  The table can filtered by 1-5 elements (city, state, date, country, shape).
+* Below is an image of the table on my webpage filtered by sightings in the state of Oregon on 1/12/2010.
